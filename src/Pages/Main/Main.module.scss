@@ -1,0 +1,28 @@
+@import "../../Assets/Colors/colors.scss";
+.wrapper {
+    width: 1300px;
+    margin: 0 auto;
+    .text {
+        text-align: center;
+        margin: 55px 0;
+        .title {
+            font-weight: 400;
+            font-size: 42px;
+            line-height: 52px;
+        }
+        .titleDescr {
+            font-weight: 400;
+            font-size: 13px;
+            line-height: 17px;
+        }
+    }
+    .see {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 55px;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+    }
+}

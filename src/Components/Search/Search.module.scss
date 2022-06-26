@@ -1,0 +1,88 @@
+@import "../../Assets/Colors/colors.scss";
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    .input {
+        margin: 15px 0;
+        width: 650px;
+        height: 60px;
+        background-color: $second;
+        border: 1px solid $sixthy;
+        border-radius: 100px;
+        padding: 20px;
+        font-weight: 400;
+        font-size: 16px;
+        color: $fourth;
+        line-height: 17px;
+    }
+    .btns {
+        width: 650px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 65px;
+        .btn {
+            cursor: pointer;
+            background-color: $second;
+            border: 1px solid $sixthy;
+            padding: 12px 22px;
+            border-radius: 50px;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 17px;
+            color: $fourth;
+        }
+        .btn:hover {
+            border: 1px solid transparent;
+            background-color: $first;
+            color: $fifthy;
+        }
+    }
+    .about {
+        width: 935px;
+        padding: 45px;
+        background-color: $first;
+        border-radius: 16px;
+        .title {
+            margin-bottom: 10px;
+            font-weight: 400;
+            font-size: 42px;
+            line-height: 52px;
+        }
+        .titleDescr {
+            margin-bottom: 15px;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 19px;
+        }
+        img {
+            margin-bottom: 15px;
+        }
+        .InpG {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            input {
+                width: 285px;
+                height: 50px;
+                padding: 16px 32px;
+                border-radius: 50px 0 0 50px;
+                border:1px solid $fourth;
+            }
+            button {
+                cursor: pointer;
+                width: 115px;
+                height: 50px;
+                font-size: 14px;
+                padding: 16px 32px;
+                border-radius: 0 50px 50px 0;
+                background-color: $fourth;
+                color: $fifthy;
+            }
+        }
+    }
+}

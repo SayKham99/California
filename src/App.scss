@@ -1,0 +1,13 @@
+@import './Assets/Colors/colors.scss';
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    transition: 0.5s ease-in;
+    font-family: "Inter", sans-serif;
+}
+a {
+    text-decoration: none;
+    color: $fourth;
+}

@@ -1,0 +1,29 @@
+@import "../../Assets/Colors/colors.scss";
+.navbar {
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__logo {
+        background-color: #fff;
+    }
+    &__menu {
+        width: 440px;
+        ul {
+            display: flex;
+            justify-content: space-between;
+            li {
+                display: inline-block;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 17px;
+                text-transform: uppercase;
+            }
+        }
+    }
+    &__icons {
+        .img:first-child{
+            margin-right: 10px;
+        }
+    }
+}

@@ -1,0 +1,40 @@
+@import "../../Assets/Colors/colors.scss";
+.header {
+    .slide {
+        height: 550px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: $first;
+        border-radius: 32px;
+        .text {
+            margin-left: 55px;
+            text-align: start;
+            width: 850px;
+            .title {
+                font-weight: 500;
+                font-size: 58px;
+                line-height: 70px;
+                margin-bottom: 20px;
+            }
+            .descr {
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 19px;
+                margin-bottom: 20px;
+            }
+            .btn{
+                border:1px solid $fourth;
+                background-color: transparent;
+                border-radius: 50px;
+                padding: 14px 53px;
+                font-size: 18px;
+                font-weight: 400;
+            }
+        }
+        .picture {
+            width: 647px;
+            height: 550px;
+        }
+    }
+}

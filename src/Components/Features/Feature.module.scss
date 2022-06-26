@@ -1,0 +1,40 @@
+@import "../../Assets/Colors/colors.scss";
+.feature {
+    .cards {
+        display: grid;
+        grid-template-columns: repeat(4, 303px);
+        grid-template-rows: 396px;
+        grid-gap: 29px;
+        .card {
+            width: 302px;
+            height: 396px;
+            .cardHeader {
+                img {
+                    width: 302px;
+                    height: 270px;
+                }
+            }
+            .cardBody {
+                padding: 0 10px;
+                .cardTitle {
+                    font-weight: 500;
+                    font-size: 22px;
+                    line-height: 28px;
+                    margin-bottom: 10px;
+                }
+                .cardDescr {
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 17px;
+                    margin-bottom: 10px;
+                }
+                .price {
+                    bottom: 0;
+                    font-weight: 400;
+                    font-size: 18px;
+                    line-height: 22px;
+                }
+            }
+        }
+    }
+}

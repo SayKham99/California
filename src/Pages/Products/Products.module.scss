@@ -1,0 +1,18 @@
+@import "../../Assets/Colors/colors.scss";
+.navbar {
+    display: flex;
+    &__logo {
+        background-color: #000;
+    }
+    &__menu {
+        ul {
+            display: inline-block;
+            li {
+                display: block;
+            }
+        }
+    }
+    &__icons {
+        background-color: #000;
+    }
+}

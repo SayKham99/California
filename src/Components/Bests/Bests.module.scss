@@ -1,0 +1,39 @@
+@import "../../Assets/Colors/colors.scss";
+.bests {
+    .cards {
+        display: grid;
+        grid-template-columns: repeat(3, 413px);
+        grid-template-rows: repeat(1, 453px);
+        grid-gap: 28px;
+        .item {
+            width: 413px;
+            height: 453px;
+            background-color: $second;
+            border-radius: 20px;
+            padding: 20px;
+            text-align: center;
+            .itemHeader {
+                .smallTitle {
+                    font-weight: 500;
+                    font-size: 13px;
+                    line-height: 17px;
+                }
+                .title {
+                    font-weight: 500;
+                    font-size: 28px;
+                    line-height: 35px;
+                    margin-bottom: 30px;
+                }
+                .btn {
+                    border: 1px solid $fourth;
+                    background-color: transparent;
+                    border-radius: 50px;
+                    padding: 14px 53px;
+                    font-size: 18px;
+                    font-weight: 400;
+                    margin-bottom: 30px;
+                }
+            }
+        }
+    }
+}

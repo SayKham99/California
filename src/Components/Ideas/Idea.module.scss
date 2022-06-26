@@ -1,0 +1,15 @@
+@import "../../Assets/Colors/colors.scss";
+.idea {
+    display: grid;
+    grid-template-columns: repeat(2, 640px);
+    grid-template-rows: repeat(1, 420px);
+    grid-gap: 35px;
+    .about {
+        p {
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 30px;
+        }
+    }
+    margin-bottom: 75px;
+}

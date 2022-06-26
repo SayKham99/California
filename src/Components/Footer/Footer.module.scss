@@ -1,0 +1,48 @@
+@import "../../Assets/Colors/colors.scss";
+.footer {
+    display: grid;
+    grid-template-columns: 405px 190px 190px 190px 190px;
+    grid-template-rows: repeat(1, 190px);
+    grid-gap: 15px;
+    justify-content: center;
+    padding: 30px 75px;
+    background-color: $second;
+    .descr {
+        padding: 10px;
+        img {
+            margin-bottom: 18px;
+        }
+        p {
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 19px;
+        }
+    }
+    .links {
+        .ul {
+            padding: 10px;
+            ul {
+                display: inline-block;
+                li {
+                    cursor: pointer;
+                    display: block;
+                    font-weight: 400;
+                    font-size: 17px;
+                    line-height: 22px;
+                    margin-bottom: 15px;
+                }
+                li:first-child {
+                    cursor: default;
+                    font-weight: 400;
+                    font-size: 22px;
+                    line-height: 28px;
+                }
+            }
+        }
+    }
+    hr {
+        border: 1px solid $sixthy;
+        width: 1160px;
+        margin: 20px auto;
+    }
+}
