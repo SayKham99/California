@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/California/static/css/main.7f308b01.css",
+    "main.js": "/California/static/js/main.6a880abc.js",
+    "static/media/headerImage.png": "/California/static/media/headerImage.bd420b37195827466be1.png",
+    "static/media/categoryLaptop.png": "/California/static/media/categoryLaptop.3f6c499651f0c2ac0f61.png",
+    "static/media/Book.png": "/California/static/media/Book.a045516e5d8ce3622384.png",
+    "static/media/categoryPhone.png": "/California/static/media/categoryPhone.6538e03f2fb6a3ad6217.png",
+    "static/media/categoryWatch.png": "/California/static/media/categoryWatch.847fe56dc4c24bdddac1.png",
+    "static/media/categoryIpad.png": "/California/static/media/categoryIpad.af8aeb69665541aa8a61.png",
+    "static/media/EcoSystem.png": "/California/static/media/EcoSystem.f894d05d9af0ec24488d.png",
+    "static/media/Ipad.png": "/California/static/media/Ipad.b6f8803de3000e8441ec.png",
+    "static/media/PhoneLaptop.png": "/California/static/media/PhoneLaptop.ac0800ea845197217c68.png",
+    "static/media/Galaxy.png": "/California/static/media/Galaxy.d152bde324f43ab287d1.png",
+    "static/media/MacBookAirM1.png": "/California/static/media/MacBookAirM1.0e0a0e1ba4a26ec142da.png",
+    "static/media/Watch.png": "/California/static/media/Watch.b59ec9057aaf33279a31.png",
+    "static/media/MacBookPro13.png": "/California/static/media/MacBookPro13.37099fcde115e9861ced.png",
+    "static/media/california.svg": "/California/static/media/california.cab375568c204da76b3b411aefd795bb.svg",
+    "index.html": "/California/index.html",
+    "static/media/cart.svg": "/California/static/media/cart.2e2894c40cb4248d1f962faa5fc2ee7c.svg",
+    "static/media/search.svg": "/California/static/media/search.33b6dbbdb3af799b962c715100a07ccd.svg",
+    "static/media/Arrow.svg": "/California/static/media/Arrow.3433190fb327e6b9404f428f6070cf20.svg",
+    "main.7f308b01.css.map": "/California/static/css/main.7f308b01.css.map",
+    "main.6a880abc.js.map": "/California/static/js/main.6a880abc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f308b01.css",
+    "static/js/main.6a880abc.js"
+  ]
+}
