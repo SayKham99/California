@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/California/static/css/main.7f308b01.css",
-    "main.js": "/California/static/js/main.6a880abc.js",
+    "main.css": "/California/static/css/main.f5b9ae06.css",
+    "main.js": "/California/static/js/main.227cd446.js",
     "static/media/headerImage.png": "/California/static/media/headerImage.bd420b37195827466be1.png",
     "static/media/categoryLaptop.png": "/California/static/media/categoryLaptop.3f6c499651f0c2ac0f61.png",
     "static/media/Book.png": "/California/static/media/Book.a045516e5d8ce3622384.png",
@@ -16,15 +16,15 @@
     "static/media/Watch.png": "/California/static/media/Watch.b59ec9057aaf33279a31.png",
     "static/media/MacBookPro13.png": "/California/static/media/MacBookPro13.37099fcde115e9861ced.png",
     "static/media/california.svg": "/California/static/media/california.cab375568c204da76b3b411aefd795bb.svg",
-    "static/media/cart.svg": "/California/static/media/cart.2e2894c40cb4248d1f962faa5fc2ee7c.svg",
     "index.html": "/California/index.html",
+    "static/media/cart.svg": "/California/static/media/cart.2e2894c40cb4248d1f962faa5fc2ee7c.svg",
     "static/media/search.svg": "/California/static/media/search.33b6dbbdb3af799b962c715100a07ccd.svg",
     "static/media/Arrow.svg": "/California/static/media/Arrow.3433190fb327e6b9404f428f6070cf20.svg",
-    "main.7f308b01.css.map": "/California/static/css/main.7f308b01.css.map",
-    "main.6a880abc.js.map": "/California/static/js/main.6a880abc.js.map"
+    "main.f5b9ae06.css.map": "/California/static/css/main.f5b9ae06.css.map",
+    "main.227cd446.js.map": "/California/static/js/main.227cd446.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f308b01.css",
-    "static/js/main.6a880abc.js"
+    "static/css/main.f5b9ae06.css",
+    "static/js/main.227cd446.js"
   ]
 }
