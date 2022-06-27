@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Search.module.scss'
-import src from '../../Assets/Icons/search.svg'
+// import src from '../../Assets/Icons/search.svg'
 import Eco from '../../Assets/Images/EcoSystem.png'
 import { NavLink } from 'react-router-dom';
 function Search() {

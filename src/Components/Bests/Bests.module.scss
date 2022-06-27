@@ -34,6 +34,11 @@
                     margin-bottom: 30px;
                 }
             }
+            .itemBody{
+                img:hover{
+                    transform: scale(1.1);
+                }
+            }
         }
     }
 }
